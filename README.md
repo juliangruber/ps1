@@ -10,8 +10,16 @@
 
 ## Installation
 
+Bash:
+
 ```bash
 $ source ps1.sh
+```
+
+Zsh:
+
+```zsh
+$ source ps1.zsh
 ```
 
 ## License
