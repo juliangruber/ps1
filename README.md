@@ -6,7 +6,7 @@
   ![screenshot](screenshot.png)
 
   - The PS1 is always `$`, so terminal output can easily be copied into documentation without having to reformat for pretty output
-  - Using `PROMPT_COMMAND`, a feature supported by [iTerm2](https://iterm2.com/) and probably other terminal emulators, the `cwd` and `git` branch are always displayed in the tab header
+  - Using `PROMPT_COMMAND`, a feature supported by [iTerm2](https://iterm2.com/), [gnome-terminal](https://help.gnome.org/users/gnome-terminal/stable/) and probably other terminal emulators, the `cwd` and `git` branch are always displayed in the tab header
 
 ## Installation
 
